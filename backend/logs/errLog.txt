@@ -1,0 +1,5 @@
+20211221	16:22:16	be44f274-712b-4ed9-ac7e-e2d42374324a	Error: Not allowed by CORS
+20211221	16:22:53	22206f99-6736-45e5-b517-8d9e7696175e	Error: Not allowed by CORS
+20241017	10:11:58	d30e8fce-bf09-410c-a245-caf425228311	Error: Login sessions require session support. Did you forget to use `express-session` middleware?
+20241017	10:13:12	39982173-95f2-4f3e-9e41-9cb9aaaeeb96	Error: Login sessions require session support. Did you forget to use `express-session` middleware?
+20241017	10:13:16	ee2d02e5-c95e-4095-ab62-08c80de0cadb	Error: Login sessions require session support. Did you forget to use `express-session` middleware?
