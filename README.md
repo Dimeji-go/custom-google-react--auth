@@ -134,7 +134,7 @@ Install custom-google-react--auth using one of the following methods:
 
 
 ###  Usage
-Run custom-google-react--auth using the following command:
+Run custom-google-react--auth using the following command after filling the environment variables :
 **Using `npm`** &nbsp; [<img align="center" src="https://img.shields.io/badge/npm-CB3837.svg?style={badge_style}&logo=npm&logoColor=white" />](https://www.npmjs.com/)
 
 ```sh
